@@ -6,7 +6,7 @@ Este proyecto es un ejemplo de una API REST Web Services Realizado en NodeJS
 
 Antes de ejecutar se debe tener MySQL:
 Y en ella creada la base de datos, utilizar el script que se encuentra aquí:
-![alt text](https://github.com/SebastianCarvajal/WebService-NODE/blob/main/BD/web_service.sql)
+![Base de datos](https://github.com/SebastianCarvajal/WebService-NODE/blob/main/BD/web_service.sql)
 
 Puede utilizar XAMPP para administrar su base de datos MySql
 
@@ -36,4 +36,4 @@ lo cual responderá a la petición GET retornando registros que se encuentran en
 
 Para utilizar las demas tipos de peticiones puede realizarlo con la aplicación que se encuentra en el siguiente enlace:
 
-![alt text](https://github.com/MayraCevallosHaro/FrontEnd)
+![Aplicacion cliente](https://github.com/MayraCevallosHaro/FrontEnd)
